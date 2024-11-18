@@ -4,6 +4,7 @@ This project integrates machine learning with socio-demographic analysis to fore
 A project report has also been included, kindly refer to it for detailed explanation.
 
 **Objectives**
+
 Vulnerability Analysis:
 Identify counties most affected by Hurricane Ian.
 Use socio-demographic data (e.g., income, vehicle availability, age distribution) to compute aid scores for disaster management.
