@@ -1,15 +1,7 @@
 **Hurricane Intensity Forecasting**
 
 This project integrates machine learning with socio-demographic analysis to forecast hurricane behavior and identify vulnerable regions. The project focuses on Hurricane Ian, which struck the U.S. in September 2022 and aims to improve disaster preparedness through accurate path and intensity predictions combined with targeted vulnerability assessments.
-
-Hurricane_Intensity_Forecasting/
-│   ├── Compressed Data for EDA.zip       # Dataset used for vulnerability analysis
-│   ├── Compressed Data for DM Algo.zip      # Dataset used for LSTM model training
-├── notebooks/
-│   ├── EDA.ipynb          # Exploratory Data Analysis
-│   ├── Approach A.ipynb        # First LSTM implementation
-│   ├── Approach B.ipynb        # Second LSTM implementation
-├── README.md              # Project documentation
+A project report has also been included, kindly refer to it for detailed explanation.
 
 **Objectives**
 Vulnerability Analysis:
